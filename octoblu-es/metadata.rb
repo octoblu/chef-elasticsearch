@@ -1,4 +1,4 @@
-name        "octoblu elasticsearch"
+name        "octoblu-es"
 description 'elastic search stuff for octoblu'
 maintainer  "Jade Meskill"
 license     "Apache 2.0"
