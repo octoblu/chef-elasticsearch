@@ -16,3 +16,4 @@ cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elastics
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
 cookbook 'logrotate', git: 'git://github.com/stevendanna/logrotate.git'
 cookbook 'cron'
+cookbook "ossec", git: 'git://github.com/Gigware/public-cookbooks.git', rel: 'ossec'
